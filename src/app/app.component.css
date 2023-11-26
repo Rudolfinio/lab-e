@@ -1,0 +1,19 @@
+header {
+  background-color: cadetblue;
+  color: black;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0 1em;
+  margin-bottom: 1em;
+}
+
+.router-outlet {
+  min-height: 70vh;
+}
+
+footer {
+  background-color: olive;
+  color: bisque;
+  padding: 0.5em 1em;
+}
